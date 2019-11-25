@@ -1,6 +1,6 @@
 def hello_t(names)
 names.each do |name|
-  puts "Hi #{name}"
+  puts "#{name}"
 end
 names
 end
