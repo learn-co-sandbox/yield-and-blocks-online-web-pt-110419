@@ -4,10 +4,8 @@ def hello_t(names)
   yield names[y]
   i += 1
 end
-names.start_with?("T")
-
+names
 end
 
 # call your method here!
 
-name
