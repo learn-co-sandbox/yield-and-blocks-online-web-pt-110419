@@ -2,7 +2,7 @@ def hello_t(names)
 names.each do |name|
   puts "#{name}"
 end
-names.upcase
+names
 end
 
 # call your method here!
